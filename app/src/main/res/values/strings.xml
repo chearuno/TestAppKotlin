@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test App Kotlin</string>
+    <string name="tap_me">Tap Me</string>
+    <string name="time_left">Time Left: %s</string>
+    <string name="your_score">Your Score :%s</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
